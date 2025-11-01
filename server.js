@@ -1,6 +1,6 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
-// Apuntamos a tu archivo de datos principal
+// Apuntamos a tu archivo de datos principal.
 const router = jsonServer.router('db.json'); 
 const middlewares = jsonServer.defaults();
 

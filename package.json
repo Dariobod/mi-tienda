@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "json-server db.json --port 3000"
   },
-  "author": "",
+  "author": "Dario",
   "license": "ISC",
   "description": "",
   "dependencies": {
